@@ -1,0 +1,10 @@
+body {
+    background-image: url(fon2.jpg);
+}
+
+p {
+    font-weight: 700;
+    text-align: justify;
+    width: 500px;
+}
+
